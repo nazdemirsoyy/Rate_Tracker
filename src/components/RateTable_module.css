@@ -1,0 +1,30 @@
+.rate-table {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .rate-table h2 {
+    margin-bottom: 15px;
+  }
+  
+  .rate-table table {
+    margin: auto;
+    width: 80%;
+    border-collapse: collapse;
+  }
+  
+  .rate-table th,
+  .rate-table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .rate-up {
+    color: green;
+  }
+  
+  .rate-down {
+    color: red;
+  }
+  

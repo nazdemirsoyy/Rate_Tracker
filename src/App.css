@@ -2,10 +2,16 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+/* Currency Card Style */
+.currency-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px; 
+  padding: 16px;
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
